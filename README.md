@@ -14,7 +14,13 @@ A community-maintained directory of coffee roasters around the world — includi
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [Hydrangea Coffee](https://hydrangea.coffee/) | Berkeley, CA |  Free over $50 |  |  |
+| [Hydrangea](https://hydrangea.coffee/) | Berkeley, CA |  Free over $50 |  |  |
+
+### Colorado
+
+| Name | Location | Shipping | Style | Notes |
+| --- | --- | --- | --- | --- |
+| [Prodigal](https://getprodigal.com/) | Boulder, CO | |  | Launched in 2021 |
 
 
 ### Illinois
