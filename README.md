@@ -67,6 +67,12 @@ A community-maintained directory of coffee roasters around the world — includi
 | --- | --- | --- | --- | --- |
 | [Aviary](https://aviary.coffee/) |  | Free for all orders |  |  |
 
+### Pennsylvania
+
+| Name | Location | Shipping | Style | Notes |
+| --- | --- | --- | --- | --- |
+| [Passenger](https://drinkpassenger.com/) | Lancaster, PA | |  | |
+
 ### Texas
 
 | Name | Location | Shipping | Style | Notes |
