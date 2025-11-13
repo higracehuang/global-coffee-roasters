@@ -42,6 +42,7 @@ A community-maintained directory of coffee roasters around the world — includi
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
 | [S&W Craft Roasting](https://www.swroasting.coffee/) | Coatesville, IN | Shipping fee applies (not free) | Light | Small owner‑operated specialty single origin roaster. |
+| [Utopian](https://utopiancoffee.com/) | Fort Wayne, IN |  | SO, MD |  |
 
 
 ### Massachusetts
