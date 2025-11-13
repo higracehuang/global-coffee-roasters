@@ -14,6 +14,7 @@ A community-maintained directory of coffee roasters around the world — includi
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
+| [Flower Child](https://flowerchildcoffee.com/) | Oakland, CA | |  |  |
 | [Hydrangea](https://hydrangea.coffee/) | Berkeley, CA |  Free over $50 |  |  |
 
 ### Colorado
