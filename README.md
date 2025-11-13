@@ -8,7 +8,7 @@ A community-maintained directory of coffee roasters around the world — includi
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [Onyx Coffee Lab](https://onyxcoffeelab.com/) | Rogers, AR |  |  |  |
+| [Onyx Coffee Lab](https://onyxcoffeelab.com/) | Rogers, AR | Free over $40 |  |  |
 
 
 ### Massachusetts
