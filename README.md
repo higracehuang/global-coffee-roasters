@@ -1,8 +1,21 @@
 # Global Coffee Roasters
 A community-maintained directory of coffee roasters around the world — including what they offer, where they ship, and how to discover new favorites.
 
-## US Coffee Roasters
+## United States
 
+| Name | Location | Subscription | Shipping | Style | Notes |
+| --- | --- | --- | --- | --- | --- |
+
+
+## Canada
+
+## Europe
+
+## Australia
+
+| Name | Location | Subscription | Shipping | Style | Notes |
+| --- | --- | --- | --- | --- | --- |
+| [Toby's Estate Coffee](https://tobysestatecoffee.com/) | Sydney, NSW |  |  |  |  |
 
 
 ## 🪙 License / Attribution
