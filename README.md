@@ -19,9 +19,9 @@ A community-maintained directory of coffee roasters around the world — includi
 
 ### Colorado
 
-| Name | Location | Shipping | Style | Notes |
-| --- | --- | --- | --- | --- |
-| [Prodigal](https://getprodigal.com/) | Boulder, CO | |  | Launched in 2021 |
+| Name | Location | Shipping | Subscription | Style | Notes |
+| --- | --- | --- | --- | --- | --- |
+| [Prodigal](https://getprodigal.com/) | Boulder, CO | NA | $36+7 (250g x2) | Light | Launched in 2021 |
 
 ### Connecticut
 
