@@ -33,8 +33,8 @@ A community-maintained directory of coffee roasters around the world — includi
 
 | Name | Location | Shipping | Subscription | Style | Notes |
 | --- | --- | --- | --- | --- | --- |
-| [Dayglow](https://dayglow.coffee/) | Chicago, IL | NA | Subscription $24+5 (250g) | Multi |  |
-| [Metric](https://metriccoffee.com/) | Chicago, IL | Free shipping over $75 | Subscription $25+FS (300g) | Light | |
+| [Dayglow](https://dayglow.coffee/) | Chicago, IL | NA | $24+5 (250g) | Multi |  |
+| [Metric](https://metriccoffee.com/) | Chicago, IL | Free shipping over $75 | $25+FS (300g) | Light | |
 
 
 ### Indiana
