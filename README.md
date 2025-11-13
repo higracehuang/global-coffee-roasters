@@ -8,61 +8,61 @@ A community-maintained directory of coffee roasters around the world — includi
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [Onyx Coffee Lab](https://onyxcoffeelab.com/) | Rogers, AR | Free over $40 |  |  |
+| [Onyx Coffee Lab](https://onyxcoffeelab.com/) | Rogers | Free over $40 |  |  |
 
 ### California
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [Flower Child](https://flowerchildcoffee.com/) | Oakland, CA | |  |  |
-| [Hydrangea](https://hydrangea.coffee/) | Berkeley, CA |  Free over $50 |  |  |
+| [Flower Child](https://flowerchildcoffee.com/) | Oakland | |  |  |
+| [Hydrangea](https://hydrangea.coffee/) | Berkeley |  Free over $50 |  |  |
 
 ### Colorado
 
 | Name | Location | Shipping | Subscription | Style | Notes |
 | --- | --- | --- | --- | --- | --- |
-| [Prodigal](https://getprodigal.com/) | Boulder, CO | NA | $36+7 (250g x2) | Light | Launched in 2021 |
+| [Prodigal](https://getprodigal.com/) | Boulder | NA | $36+7 (250g x2) | Light | Launched in 2021 |
 
 ### Connecticut
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [ILSE](https://ilsecoffee.com/) | North Canaan, CT | Free over $50 |  | Founded in 2019|
+| [ILSE](https://ilsecoffee.com/) | North Canaan | Free over $50 |  | Founded in 2019|
 
 ### Illinois
 
 | Name | Location | Shipping | Subscription | Style | Notes |
 | --- | --- | --- | --- | --- | --- |
-| [Dayglow](https://dayglow.coffee/) | Chicago, IL | NA | $24+5 (250g) | Multi |  |
-| [Metric](https://metriccoffee.com/) | Chicago, IL | Free shipping over $75 | $25+FS (300g) | Light | |
+| [Dayglow](https://dayglow.coffee/) | Chicago | NA | $24+5 (250g) | Multi |  |
+| [Metric](https://metriccoffee.com/) | Chicago | Free shipping over $75 | $25+FS (300g) | Light | |
 
 
 ### Indiana
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [S&W Craft Roasting](https://www.swroasting.coffee/) | Coatesville, IN | Shipping fee applies (not free) | Light | Small owner‑operated specialty single origin roaster. |
-| [Utopian](https://utopiancoffee.com/) | Fort Wayne, IN |  | SO, LMD |  |
+| [S&W Craft Roasting](https://www.swroasting.coffee/) | Coatesville | Shipping fee applies (not free) | Light | Small owner‑operated specialty single origin roaster. |
+| [Utopian](https://utopiancoffee.com/) | Fort Wayne |  | SO, LMD |  |
 
 
 ### Massachusetts
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [George Howell](https://georgehowellcoffee.com/) | Acton (near Boston), MA | Free shipping on orders $50+ in continental US. | LMD | Roastery opened in 2004 |
-| [Little Wolf](https://littlewolf.coffee/) | Ipswich, MA |  | LMD | Roastery opened in 2016 |
+| [George Howell](https://georgehowellcoffee.com/) | Acton | Free shipping on orders $50+ in continental US. | LMD | Roastery opened in 2004 |
+| [Little Wolf](https://littlewolf.coffee/) | Ipswich |  | LMD | Roastery opened in 2016 |
 
 ### New York
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [SEY](https://seycoffee.com/) | Brooklyn, NY |  |  |  |
+| [SEY](https://seycoffee.com/) | Brooklyn |  |  |  |
 
 ### North Carolina
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [Black & White Coffee Roasters](https://blackwhiteroasters.com/) | Raleigh, NC | Free over $40|  |  |
+| [Black & White Coffee Roasters](https://blackwhiteroasters.com/) | Raleigh | Free over $40|  |  |
 
 ### Ohio
 
@@ -75,19 +75,19 @@ A community-maintained directory of coffee roasters around the world — includi
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [Passenger](https://drinkpassenger.com/) | Lancaster, PA | |  | |
+| [Passenger](https://drinkpassenger.com/) | Lancaster | |  | |
 
 ### Texas
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [Eiland](https://eilandcoffee.com/) | Richardson, TX |  |  |  |
+| [Eiland](https://eilandcoffee.com/) | Richardson |  |  |  |
 
 ### Wyoming
 
-| Name | Location (State) | Shipping | Style | Notes |
+| Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [H&S Coffee Roasters](https://hscoffeeroasters.com/) | Laramie, WY | [Free shipping over $60](https://hscoffeeroasters.com/policies/shipping-policy) | Light | |
+| [H&S Coffee Roasters](https://hscoffeeroasters.com/) | Laramie | [Free shipping over $60](https://hscoffeeroasters.com/policies/shipping-policy) | Light | |
 
 ## Canada
 
