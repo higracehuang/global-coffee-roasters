@@ -1,11 +1,12 @@
 # Global Coffee Roasters
 A community-maintained directory of coffee roasters around the world — including what they offer, where they ship, and how to discover new favorites.
 
+
 ## United States
 
 | Name | Location | Subscription | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- | --- |
-
+| [Eiland Coffee](https://eilandcoffee.com/) | Richardson, TX |  |  |  |  |
 
 ## Canada
 
@@ -15,8 +16,19 @@ A community-maintained directory of coffee roasters around the world — includi
 
 | Name | Location | Subscription | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- | --- |
-| [Toby's Estate Coffee](https://tobysestatecoffee.com/) | Sydney, NSW |  |  |  |  |
+| [Toby's Estate Coffee](https://tobysestatecoffee.com/) | Sydney, NSW |  |  |  | World's Best Coffee Shop 2025 (awarded by World's 100 Best Coffee Shops Gala in Madrid in 2025) |
 
+## 🤝 How to Contribute
+
+We welcome contributions! If you know a roaster that’s missing, you can add it.  
+
+### Steps:
+1. **Fork the repository** on GitHub.  
+2. **Edit the README.md** in your fork:  
+   - Add your roaster row in the **correct region**.  
+   - Order entries **alphabetically by name** within that region.  
+3. **Create a pull request** to merge your changes back into the main repository.  
+4. **Wait for approval** from the maintainers.  
 
 ## 🪙 License / Attribution
 
