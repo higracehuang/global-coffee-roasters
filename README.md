@@ -10,12 +10,19 @@ A community-maintained directory of coffee roasters around the world — includi
 | --- | --- | --- | --- | --- |
 | [Onyx Coffee Lab](https://onyxcoffeelab.com/) | Rogers, Arkansas |  |  |  |
 
+
 ### Massachusetts
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
 | [George Howell](https://georgehowellcoffee.com/) | Acton (near Boston), Massachusetts | Free shipping on orders $50+ in continental US. | LMD | Roastery opened in 2004 |
 | [Little Wolf](https://littlewolf.coffee/) | Ipswich, Massachusetts |  | LMD | Roastery opened in 2016 |
+
+### Illinois
+
+| Name | Location | Shipping | Style | Notes |
+| --- | --- | --- | --- | --- |
+| [Dayglow](https://dayglow.coffee/) | Chicago, Illinois |  |  |  |
 
 ### Indiana
 
