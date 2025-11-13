@@ -6,6 +6,9 @@ A community-maintained directory of coffee roasters around the world — includi
 
 ### Indiana
 
+| Name | Location | Shipping | Style | Notes |
+| --- | --- | --- | --- | --- |
+| [S&W Craft Roasting](https://www.swroasting.coffee/) | Coatesville, Indiana | Shipping fee applies (not free) | Light | Small owner‑operated specialty single origin roaster. |
 
 
 ### Texas
