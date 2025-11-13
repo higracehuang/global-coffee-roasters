@@ -34,7 +34,7 @@ A community-maintained directory of coffee roasters around the world — includi
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
 | [Dayglow](https://dayglow.coffee/) | Chicago, IL |  |  |  |
-| [Metric](https://metriccoffee.com/) | Chicago, IL | |  | |
+| [Metric](https://metriccoffee.com/) | Chicago, IL |  |  |  |
 
 ### Indiana
 
