@@ -56,7 +56,7 @@ A community-maintained directory of coffee roasters around the world — includi
 | --- | --- | --- | --- | --- |
 | [SEY](https://seycoffee.com/) | Brooklyn, NY |  |  |  |
 
-## North Carolina
+### North Carolina
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
