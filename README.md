@@ -4,6 +4,12 @@ A community-maintained directory of coffee roasters around the world — includi
 
 ## United States
 
+### Massachusetts
+
+| Name | Location | Shipping | Style | Notes |
+| --- | --- | --- | --- | --- |
+| [George Howell Coffee](https://georgehowellcoffee.com/) | Acton (near Boston), Massachusetts | Free shipping on orders $50+ in continental US. | LMD | Roastery opened in 2004 in Acton, MA |
+
 ### Indiana
 
 | Name | Location | Shipping | Style | Notes |
