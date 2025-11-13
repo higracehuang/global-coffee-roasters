@@ -22,6 +22,11 @@ A community-maintained directory of coffee roasters around the world — includi
 | --- | --- | --- | --- | --- |
 | [Prodigal](https://getprodigal.com/) | Boulder, CO | |  | Launched in 2021 |
 
+### Connecticut
+
+| Name | Location | Shipping | Style | Notes |
+| --- | --- | --- | --- | --- |
+| [ILSE](https://ilsecoffee.com/) | North Canaan, CT | Free over $50 |  | Founded in 2019|
 
 ### Illinois
 
