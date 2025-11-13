@@ -4,11 +4,21 @@ A community-maintained directory of coffee roasters around the world — includi
 
 ## United States
 
+### Indiana
+
+
+
 ### Texas
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
 | [Eiland Coffee](https://eilandcoffee.com/) | Richardson, TX |  |  |  |
+
+### Wyoming
+
+| Name | Location (State) | Shipping | Style | Notes |
+| --- | --- | --- | --- | --- |
+| [H&S Coffee Roasters](https://hscoffeeroasters.com/) | Laramie, WY | [Free shipping over $60](https://hscoffeeroasters.com/policies/shipping-policy) | Light | |
 
 ## Canada
 
