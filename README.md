@@ -42,7 +42,7 @@ A community-maintained directory of coffee roasters around the world — includi
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
 | [S&W Craft Roasting](https://www.swroasting.coffee/) | Coatesville | Shipping fee applies (not free) | Light | Small owner‑operated specialty single origin roaster. |
-| [Utopian](https://utopiancoffee.com/) | Fort Wayne |  | SO, LMD |  |
+| [Utopian](https://utopiancoffee.com/) | Fort Wayne |  | SO, LMD | Overall Regional Winner for the U.S. & Canada at the Global Coffee Awards 2025 |
 
 
 ### Massachusetts
