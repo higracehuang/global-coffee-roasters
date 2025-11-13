@@ -10,13 +10,12 @@ A community-maintained directory of coffee roasters around the world — includi
 | --- | --- | --- | --- | --- |
 | [Onyx Coffee Lab](https://onyxcoffeelab.com/) | Rogers, AR | Free over $40 |  |  |
 
-
-### Massachusetts
+### California
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [George Howell](https://georgehowellcoffee.com/) | Acton (near Boston), MA | Free shipping on orders $50+ in continental US. | LMD | Roastery opened in 2004 |
-| [Little Wolf](https://littlewolf.coffee/) | Ipswich, MA |  | LMD | Roastery opened in 2016 |
+| [Hydrangea Coffee](https://hydrangea.coffee/) | Berkeley, CA |  Free over $50 |  |  |
+
 
 ### Illinois
 
@@ -30,11 +29,31 @@ A community-maintained directory of coffee roasters around the world — includi
 | --- | --- | --- | --- | --- |
 | [S&W Craft Roasting](https://www.swroasting.coffee/) | Coatesville, IN | Shipping fee applies (not free) | Light | Small owner‑operated specialty single origin roaster. |
 
+
+### Massachusetts
+
+| Name | Location | Shipping | Style | Notes |
+| --- | --- | --- | --- | --- |
+| [George Howell](https://georgehowellcoffee.com/) | Acton (near Boston), MA | Free shipping on orders $50+ in continental US. | LMD | Roastery opened in 2004 |
+| [Little Wolf](https://littlewolf.coffee/) | Ipswich, MA |  | LMD | Roastery opened in 2016 |
+
 ### New York
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
 | [SEY](https://seycoffee.com/) | Brooklyn, NY |  |  |  |
+
+## North Carolina
+
+| Name | Location | Shipping | Style | Notes |
+| --- | --- | --- | --- | --- |
+| [Black & White Coffee Roasters](https://blackwhiteroasters.com/) | Raleigh, NC | Free over $40|  |  |
+
+### Ohio
+
+| Name | Location | Shipping | Style | Notes |
+| --- | --- | --- | --- | --- |
+| [Aviary](https://aviary.coffee/) |  | Free for all orders |  |  |
 
 ### Texas
 
