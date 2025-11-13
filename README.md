@@ -4,9 +4,11 @@ A community-maintained directory of coffee roasters around the world — includi
 
 ## United States
 
-| Name | Location | Subscription | Shipping | Style | Notes |
-| --- | --- | --- | --- | --- | --- |
-| [Eiland Coffee](https://eilandcoffee.com/) | Richardson, TX |  |  |  |  |
+### Texas
+
+| Name | Location | Shipping | Style | Notes |
+| --- | --- | --- | --- | --- |
+| [Eiland Coffee](https://eilandcoffee.com/) | Richardson, TX |  |  |  |
 
 ## Canada
 
@@ -14,9 +16,9 @@ A community-maintained directory of coffee roasters around the world — includi
 
 ## Australia
 
-| Name | Location | Subscription | Shipping | Style | Notes |
-| --- | --- | --- | --- | --- | --- |
-| [Toby's Estate Coffee](https://tobysestatecoffee.com/) | Sydney, NSW |  |  |  | World's Best Coffee Shop 2025 (awarded by World's 100 Best Coffee Shops Gala in Madrid in 2025) |
+| Name | Location | Shipping | Style | Notes |
+| --- | --- | --- | --- | --- |
+| [Toby's Estate Coffee](https://tobysestatecoffee.com/) | Sydney, NSW |  |  | World's Best Coffee Shop 2025 (Madrid, Spain) |
 
 ## 🤝 How to Contribute
 
