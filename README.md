@@ -35,7 +35,7 @@ A community-maintained directory of coffee roasters around the world — includi
 
 | Name | Location | Shipping | Subscription | Style | Notes |
 | --- | --- | --- | --- | --- | --- |
-| [Dayglow](https://dayglow.coffee/) | Chicago | NA | $24+5 (250g) | Multi |  |
+| [Dayglow](https://dayglow.coffee/) | Chicago | Free over $75 | $24+5 (250g) | Multi | Roasting started in 2022 |
 | [Metric](https://metriccoffee.com/) | Chicago | Free shipping over $75 | $25+FS (300g) | Light | |
 
 
