@@ -1,4 +1,6 @@
 # Global Coffee Roasters
+[![GitHub stars](https://img.shields.io/github/stars/higracehuang/global-coffee-roasters?style=social)](https://github.com/higracehuang/global-coffee-roasters)
+
 A community-maintained directory of coffee roasters around the world — including what they offer, where they ship, and how to discover new favorites.
 
 
@@ -98,6 +100,10 @@ A community-maintained directory of coffee roasters around the world — includi
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
 | [Toby's Estate Coffee](https://tobysestatecoffee.com/) | Sydney, NSW |  |  | World's Best Coffee Shop 2025 (Madrid, Spain) |
+
+## ⭐️ Support This Project
+
+If you love discovering new coffee roasters around the world, please consider **starring this repo**! It helps more people find the directory and motivates us to keep expanding it.
 
 ## 🤝 How to Contribute
 
