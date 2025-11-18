@@ -102,6 +102,11 @@ A community-maintained directory of coffee roasters around the world — includi
 | --- | --- | --- | --- | --- |
 | [Toby's Estate Coffee](https://tobysestatecoffee.com/) | Sydney, NSW | Free over $65 |  | World's Best Coffee Shop 2025 (Madrid, Spain). Only ships to Australia and Singapore. |
 
+## Notes
+
+- **SO** = *Single Origin*  
+- **LMD** = *Light / Medium / Dark*
+  
 ## ⭐️ Support This Project
 
 If you love discovering new coffee roasters around the world, please consider **starring this repo**! It helps more people find the directory and motivates us to keep expanding it.
