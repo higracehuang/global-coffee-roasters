@@ -64,6 +64,7 @@ A community-maintained directory of coffee roasters around the world — includi
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
+| [Counter Culture](https://counterculturecoffee.com) | Durham | Free over $30 | SO, MD | Founded in 1995 |
 | [Black & White Coffee Roasters](https://blackwhiteroasters.com/) | Raleigh | Free over $40|  |  |
 
 ### Ohio
