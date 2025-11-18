@@ -100,7 +100,7 @@ A community-maintained directory of coffee roasters around the world — includi
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [Danes](https://danes.com.au/) | Sydney, NSW | Free over $60. Only ships to Australia | SO, LMD | Won 20 medals in a single year at the 2020 AICA competition. |
+| [Danes](https://danes.com.au/) | Brookvale, NSW | Free over $60. Only ships to Australia | SO, LMD | Won 20 medals in a single year at the 2020 AICA competition. |
 | [Toby's Estate Coffee](https://tobysestatecoffee.com/) | Sydney, NSW | Free over $65. Only ships to Australia and Singapore | SO, LMD | World's Best Coffee Shop 2025 (Madrid, Spain). |
 
 ## Notes
