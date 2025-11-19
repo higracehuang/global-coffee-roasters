@@ -84,8 +84,10 @@ A community-maintained directory of coffee roasters around the world — includi
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
+| [Coffee del Ray](https://coffeedelrey.com/) | Plano |  | |  |
 | [Eiland](https://eilandcoffee.com/) | Richardson |  | LMD | Free espresso with purchase of a bag of beans in store |
 | [Lemma](https://lemmacoffeeco.com/) | Carrolton, Frisco, Plano | Free over $40 | SO, LMD | Launched in 2017 |
+| [Oak Cliff](https://oakcliffcoffee.com/) | Dallas |  | SO, LMD |  |
 | [White Rock](https://wrcoffee.com/) | Dallas | Free over $50 | LMD | WRC Brew Lab onsite teaching coffee and latte art |
 
 ### Wyoming
