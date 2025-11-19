@@ -84,9 +84,11 @@ A community-maintained directory of coffee roasters around the world — includi
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
+| [Addison](https://addisoncoffee.com/) | Addison, Forney |  |  |  |
 | [Coffee del Ray](https://coffeedelrey.com/) | Plano |  | |  |
 | [Eiland](https://eilandcoffee.com/) | Richardson |  | LMD | Free espresso with purchase of a bag of beans in store |
 | [Lemma](https://lemmacoffeeco.com/) | Carrolton, Frisco, Plano | Free over $40 | SO, LMD | Launched in 2017 |
+| [Noble Coyote](https://noblecoyotecoffee.com/) | Dallas | Free over $65. $7 flat rate |  | multiple Good Food Awards in 2018, 2022, and 2024, 2018 Best Coffee Shop in Texas award from Food & Wine magazine |
 | [Oak Cliff](https://oakcliffcoffee.com/) | Dallas |  | SO, LMD |  |
 | [White Rock](https://wrcoffee.com/) | Dallas | Free over $50 | LMD | WRC Brew Lab onsite teaching coffee and latte art |
 
