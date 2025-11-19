@@ -84,7 +84,7 @@ A community-maintained directory of coffee roasters around the world — includi
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [Eiland](https://eilandcoffee.com/) | Richardson |  |  |  |
+| [Eiland](https://eilandcoffee.com/) | Richardson |  | LMD | Free espresso with purchase of a bag of beans in store |
 
 ### Wyoming
 
