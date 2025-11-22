@@ -96,7 +96,7 @@ A community-maintained directory of coffee roasters around the world — includi
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [Red Rooster](https://www.redroostercoffee.com/) | Floyd | Free shipping on Annual Subscription | SO, MD |  |
+| [Red Rooster](https://www.redroostercoffee.com/) | Floyd | Free shipping on Annual Subscription | SO, MD | Founded in 2010. 3 time Good Food Awards Winner. |
 
 ### Wyoming
 
