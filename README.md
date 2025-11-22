@@ -78,7 +78,7 @@ A community-maintained directory of coffee roasters around the world — includi
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [Happy Mug](https://happymugcoffee.com/) | Erie | Free over $40. $3 on all orders | LMD |  |
+| [Happy Mug](https://happymugcoffee.com/) | Erie | [Free over $40. $3 on all orders](https://happymugcoffee.com/pages/shipping-table) | LMD |  |
 | [Passenger](https://drinkpassenger.com/) | Lancaster |  |  |  |
 
 ### Texas
