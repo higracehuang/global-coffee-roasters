@@ -78,7 +78,7 @@ A community-maintained directory of coffee roasters around the world — includi
 
 | Name | Location | Shipping | Style | Notes |
 | --- | --- | --- | --- | --- |
-| [Passenger](https://drinkpassenger.com/) | Lancaster | |  | |
+| [Passenger](https://drinkpassenger.com/) | Lancaster |  |  |  |
 
 ### Texas
 
@@ -91,6 +91,12 @@ A community-maintained directory of coffee roasters around the world — includi
 | [Noble Coyote](https://noblecoyotecoffee.com/) | Dallas | Free over $65. $7 flat rate |  | multiple Good Food Awards in 2018, 2022, and 2024, 2018 Best Coffee Shop in Texas award from Food & Wine magazine |
 | [Oak Cliff](https://oakcliffcoffee.com/) | Dallas |  | SO, LMD |  |
 | [White Rock](https://wrcoffee.com/) | Dallas | Free over $50 | LMD | WRC Brew Lab onsite teaching coffee and latte art |
+
+### Virginia
+
+| Name | Location | Shipping | Style | Notes |
+| --- | --- | --- | --- | --- |
+| [Red Rooster](https://www.redroostercoffee.com/) | Floyd | Free shipping on Annual Subscription | SO, MD |  |
 
 ### Wyoming
 
